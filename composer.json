@@ -1,0 +1,21 @@
+{
+    "name": "calvin-kihoro/design-patterns",
+    "description": "Common design patterns in php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Calvin Kihoro",
+            "email": "calvin.kihoro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "examples"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
