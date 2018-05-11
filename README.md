@@ -1,3 +1,3 @@
 ### PHP design patterns
-Develop Common php design patterns with examples
+Common design patterns used in php projects.
 
